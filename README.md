@@ -1,4 +1,4 @@
-# spring_boot_basic_restfull_api
+# spring_boot_basic_restful_api
 basic Spring boot RESTful API 
 
 <br>
